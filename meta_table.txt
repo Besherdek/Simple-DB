@@ -1,0 +1,2 @@
+students(name: str, year: int, gpa: float)
+test(name: str)
